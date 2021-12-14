@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Cryon",
+    name="Crayon",
     version="1.0",
     author="Zaid Ali",
     author_email="email@xarty.xyz",
